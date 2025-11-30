@@ -1,6 +1,10 @@
 # Clash Nyanpasu 官网下载资源分享
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="ClashNyanpasu" src="https://github.com/user-attachments/assets/2014cb09-b550-49ce-a908-2d9e91a8721b" />
+</div>
+<br>
 
 ## :memo: Clash Nyanpasu 节点资源
 
